@@ -1,0 +1,7 @@
+---
+flows:
+- steps:
+  - kind: endpoint
+    uri: twitter-search
+  - kind: endpoint
+    uri: http-post
