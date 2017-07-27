@@ -4,4 +4,4 @@ flows:
   - kind: endpoint
     uri: twitter-search
   - kind: endpoint
-    uri: http-post
+    uri: http-post:kitchensink-service:8080/mirror/post
