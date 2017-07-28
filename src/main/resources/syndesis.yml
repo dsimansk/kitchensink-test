@@ -4,4 +4,4 @@ flows:
   - kind: endpoint
     uri: twitter-search
   - kind: endpoint
-    uri: http-post:?uri=http://kitchensink-service.syndesis-qe.svc.cluster.local/mirror/post
+    uri: http-post:kitchensink-service?path=mirror/post
