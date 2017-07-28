@@ -3,5 +3,7 @@ flows:
 - steps:
   - kind: endpoint
     uri: twitter-search
-  - kind: endpoint
+  - kind: endpoint    
     uri: http-post:kitchensink-service
+    path: /some/path
+    hostname: kitchensink-service.cluster.svc
