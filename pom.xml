@@ -14,7 +14,7 @@
   <properties>
     <spring-boot.version>1.5.3.RELEASE</spring-boot.version>
     <camel.version>2.19.0</camel.version>
-    <syndesis-integration-runtime.version>0.1.1</syndesis-integration-runtime.version>
+    <syndesis-integration-runtime.version>0.1.2</syndesis-integration-runtime.version>
     <atlasmap.version>1.10.0</atlasmap.version>
   </properties>
 
