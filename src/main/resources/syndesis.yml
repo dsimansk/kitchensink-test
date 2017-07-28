@@ -5,4 +5,3 @@ flows:
     uri: twitter-search
   - kind: endpoint
     uri: http-post:kitchensink-service
-    path: mirror/post
